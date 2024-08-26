@@ -34,7 +34,7 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 
 ### Cloud Technologies
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?logo=amazonwebservices&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
