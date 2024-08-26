@@ -3,14 +3,18 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
+### Frontend Development
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ### Skills
 ## Frontend Development: [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,redux,html,css,tailwind)](https://skillicons.dev)
