@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Developer.
 
+## Certifications
+![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-Developing_Applications_2024-4285F4?logo=googlecloud&logoColor=white)
+
 ## Skills
 
 ### Programming Languages
