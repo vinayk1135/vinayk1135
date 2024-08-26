@@ -6,14 +6,14 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 
 ## Skills
 
-### Programming Languages
+Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=white)
 
-### Frontend Development
+Frontend Development
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
@@ -24,7 +24,7 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-### Backend Development and Databases
+Backend Development and Databases
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -35,11 +35,11 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### Cloud Technologies
+Cloud Technologies
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?logo=amazonwebservices&logoColor=white)
 
-### DevOps & Tools
+DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
