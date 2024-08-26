@@ -34,7 +34,7 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 
 ### Cloud Technologies
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?logo=amazonaws&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -48,9 +48,6 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 ![Agile](https://img.shields.io/badge/-Agile-00B4E0?logo=agile&logoColor=white)
 
 
-
-### Skills
-## Frontend Development: [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,redux,html,css,tailwind)](https://skillicons.dev)
 <!--
 **hackerdud3/hackerdud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
