@@ -12,6 +12,8 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 
+### Skills
+## Frontend Development: [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,redux,html,css,tailwind)](https://skillicons.dev)
 <!--
 **hackerdud3/hackerdud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
