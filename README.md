@@ -12,6 +12,7 @@ I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Develop
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=white)
 
 **Frontend Development**
