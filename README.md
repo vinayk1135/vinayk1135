@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Developer.
+I'm open to Software Engineer roles, please contact nandhikantivinayk@gmail.com
 
 ## Certifications
 ![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-4285F4?logo=googlecloud&logoColor=white)
