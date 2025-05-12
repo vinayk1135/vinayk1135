@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Nandhikanti Vinay Kumar, a passionate Software Engineer | Full Stack Developer.
-I'm open to Software Engineer roles, please contact nandhikvinay@gmail.com
+I'm open to Software Engineer roles, please contact nandhikantivinayk@gmail.com
 
 ## Certifications
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?logo=amazonaws&logoColor=white)
